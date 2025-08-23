@@ -1,2 +1,2 @@
 # Boot_Sudoku-Solver
-Portfolio project, a solver for Sudoku puzzles
+A solver for arbitrary Sudoku puzzles

@@ -1,0 +1,14 @@
+000|000|000
+000|000|000
+000|000|000
+---+---+---
+000|000|000
+000|000|000
+000|000|000
+---+---+---
+000|000|000
+000|000|000
+000|000|000
+
+0 indicates an empty cell
+Reminder: A solvable Sudoku needs a minimum of 17 filled cells to start from.
