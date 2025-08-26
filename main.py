@@ -22,9 +22,6 @@ def solve_step(grid):
 def main():
     grid = read_sudoku("./puzzles/puzzle.txt")
     grid.print_grid()
-    print(grid.possibilities.grid[0][7])
-    print(grid.possibilities.is_possible("2", 0, 7))
-    grid.naked_singles_col(8, 5)
-    grid.print_grid()
+    grid.solve_loop()
 
 main()
